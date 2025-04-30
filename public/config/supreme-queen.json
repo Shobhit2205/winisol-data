@@ -1,0 +1,29 @@
+{
+    "name": "Supreme Queen",
+    "symbol": "SQL",
+    "description": "The Supreme Queen Lottery represents grace, dominance, and ultimate control. Play for a chance to command the board and win big in the WiniSol Queen tier.",
+    "image": "https://data.winisol.com/nfts/supreme-queen.png",
+    "seller_fee_basis_points": 0,
+    "attributes": [
+      {
+        "trait_type": "Lottery",
+        "value": "Queen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://data.winisol.com/nfts/supreme-queen.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "RJtnLDyB6pZUWDZ7qZE8nCakas6eaofnqKyBDB7Xf1A",
+          "share": 100
+        }
+      ]
+    }
+  }
+  

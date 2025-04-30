@@ -1,0 +1,29 @@
+{
+    "name": "Royal Rook",
+    "symbol": "RRL",
+    "description": "The Royal Rook Lottery represents strength, stability, and fearless moves. Play for a chance to hold your ground and win big in the WiniSol Rook tier.",
+    "image": "https://data.winisol.com/nfts/royal-rook.png",
+    "seller_fee_basis_points": 0,
+    "attributes": [
+      {
+        "trait_type": "Lottery",
+        "value": "Rook"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://data.winisol.com/nfts/royal-rook.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "RJtnLDyB6pZUWDZ7qZE8nCakas6eaofnqKyBDB7Xf1A",
+          "share": 100
+        }
+      ]
+    }
+  }
+  
