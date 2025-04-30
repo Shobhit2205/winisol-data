@@ -2,7 +2,7 @@
   "name": "Conqueror King",
   "symbol": "CKL",
   "description": "The Conqueror King Lottery represents power, leadership, and victory. Play for a chance to rule and win big in the WiniSol King tier.",
-  "image": "https://data.winisol.com/nfts/king.png",
+  "image": "https://data.winisol.com/nfts/conqueror-king.png",
   "seller_fee_basis_points": 0,
   "attributes": [
     {
@@ -13,7 +13,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://data.winisol.com/nfts/king.png",
+        "uri": "https://data.winisol.com/nfts/conqueror-king.png",
         "type": "image/png"
       }
     ],

@@ -2,7 +2,7 @@
   "name": "Dominant Knight",
   "symbol": "DKL",
   "description": "The Dominant Knight Lottery stands for courage, control, and sharp strategy. Play to charge ahead and win big in the WiniSol Knight tier.",
-  "image": "https://data.winisol.com/nfts/knight.png",
+  "image": "https://data.winisol.com/nfts/dominant-knight.png",
   "seller_fee_basis_points": 0,
   "attributes": [
     {
@@ -13,7 +13,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://data.winisol.com/nfts/knight.png",
+        "uri": "https://data.winisol.com/nfts/dominant-knight.png",
         "type": "image/png"
       }
     ],
